@@ -1,4 +1,4 @@
 (executable
  (public_name http_server)
  (name main)
- (libraries lwt.unix unix http_server))
+ (libraries unix http_server))
